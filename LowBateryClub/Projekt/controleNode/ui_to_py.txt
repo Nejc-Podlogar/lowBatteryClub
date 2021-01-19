@@ -1,0 +1,6 @@
+python -m PyQt5.uic.pyuic -x ControlNode.ui -o Test.py
+
+kopiras setupUI in retranslateUi na novo
+kopiraj vrstico za clickbutton
+
+self.pushButton.clicked.connect(self.connectClick)

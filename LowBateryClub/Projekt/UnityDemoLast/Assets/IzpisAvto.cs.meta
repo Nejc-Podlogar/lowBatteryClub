@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 12bea26cb265a484d949b6f6f3a29ebc
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - TextSpeed: {instanceID: 0}
+  - TextSteering: {fileID: 1989548626978598, guid: e40b37a58e90168489aecb17d1395cbb,
+      type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
